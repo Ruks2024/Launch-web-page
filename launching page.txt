@@ -1,0 +1,109 @@
+<html>
+
+<head>
+    
+<title>Tourism</title>
+<style>
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 20;
+}
+
+
+</style>
+</head>
+ <body>
+        <header>
+          <Center> 
+          <marquee> <h1>Welcome to Tourism</h1> </marquee>
+          <nav>
+            <div class="container">
+              <ul class="myUL">
+           
+             <li> <a href="#about">About</a></li>
+             <li> <a href="#places">Places</a></li>
+             <li> <a href="#contact">Contact</a></li>
+            </ul>
+          </nav>
+          <style>
+          div.container {
+            text-align: center;
+          }
+          
+          ul.myUL {
+            display: inline-block;
+            text-align: left;
+          }
+          </style>
+        </header>
+        </body>
+    <body background="nature.jpeg" background-repeat="no-repeat”  background-size="100% cover”>
+        <style>
+            body {
+              background-image: url('nature.jpeg');
+              background-repeat: no-repeat;
+              background-attachment: fixed;
+              background-size: cover;
+            }
+            </style>
+    </body>
+
+
+
+
+    
+        <main>
+          <center>
+            
+          <section id="about">
+            <h2>About Us</h2>
+            <p> Providing best place packages for tourits to enjoy the trip </p>
+          </section>
+          <section id="places">
+            <h2>Best Packages</h2>
+          
+            <div class="container">
+              <ul class="myUL">
+           
+              <li>Bangalore 5 days Package</li>
+              <li>Kerala 7 days package </li>
+              <li>Delhi 6 days package</li>
+            </ul>
+            <style>
+            div.container {
+              text-align: center;
+            }
+            
+            ul.myUL {
+              display: inline-block;
+              text-align: center;
+            }
+          </style>
+            </div>
+          </section>
+        </main>
+      </center>
+    
+        <footer>
+          <center>
+          <address> <font color = "white">
+                  Mumbai<br>
+                  Phone: 0000000000 <br>
+                  Email: test@tourism.com
+          </address>
+          <p>&copy; 2024 Welcome to tourism All rights reserved.</p>
+        </font>
+      </center>
+        </footer>
+      
+      </body>
+
+</head>
+</Center>
+</html>
